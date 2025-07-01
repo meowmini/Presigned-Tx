@@ -107,11 +107,11 @@ const beneficiary = "0xYOUR_WALLET_ADDRESS_HERE"; // Your wallet address
 ```
 | Placeholder                    | Replace With                                               |
 | ------------------------------ | ---------------------------------------------------------- |
-| `0xYOUR_PRIVATE_KEY_HERE`      | Your actual wallet private key                             |
-| `CUSTOM_RPC             `      | Or a custom Arbitrum RPC URL from Alchemy, Infura, etc.    |
+| `0xYOUR_PRIVATE_KEY_HERE`      | Your actual  private key                                   |
+| `CUSTOM_RPC`                   | Or a custom Arbitrum RPC URL from Alchemy, Infura, etc.    |
 | `0xCONTRACT_ADDRESS_HERE`      | The actual presale contract address                        |
-| `"0.01"`                       | Amount of ETH you want to send (e.g., `"0.05"`)            |
-| `0xYOUR_WALLET_ADDRESS_HERE`   | Your Ethereum wallet address (same or different as sender) |
+| `"0.01"`                       | Amount you want to send                                    |
+| `0xYOUR_WALLET_ADDRESS_HERE`   | Your  wallet address                                       |
 
 ---
 
